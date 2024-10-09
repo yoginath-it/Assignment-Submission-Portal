@@ -1,3 +1,17 @@
+# Assignment Submission Portal
+
+The Assignment Submission Portal is a web-based application designed to facilitate the submission and review of assignments. Users can register, log in, and upload assignments, while admins can review and manage these assignments.
+## Technologies Used
+
+- Flask: A micro web framework for Python.
+- MongoDB: A NoSQL database for storing user and assignment data.
+- Python 3.13.0: The programming language used for development.
+- Flask-PyMongo: An extension that simplifies working with MongoDB in Flask.
+## Prerequisites
+
+- Python 3.13.0 or higher
+- MongoDB installed and running
+- Flask and other dependencies installed (see `requirements.txt`)
 
 ## Installation
 
